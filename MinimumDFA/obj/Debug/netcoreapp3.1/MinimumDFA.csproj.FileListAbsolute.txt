@@ -1,0 +1,13 @@
+C:\Users\AlMahdi\source\repos\MinimumDFA\MinimumDFA\obj\Debug\netcoreapp3.1\MinimumDFA.csproj.AssemblyReference.cache
+C:\Users\AlMahdi\source\repos\MinimumDFA\MinimumDFA\obj\Debug\netcoreapp3.1\MinimumDFA.AssemblyInfoInputs.cache
+C:\Users\AlMahdi\source\repos\MinimumDFA\MinimumDFA\obj\Debug\netcoreapp3.1\MinimumDFA.AssemblyInfo.cs
+C:\Users\AlMahdi\source\repos\MinimumDFA\MinimumDFA\obj\Debug\netcoreapp3.1\MinimumDFA.csproj.CoreCompileInputs.cache
+C:\Users\AlMahdi\source\repos\MinimumDFA\MinimumDFA\bin\Debug\netcoreapp3.1\MinimumDFA.exe
+C:\Users\AlMahdi\source\repos\MinimumDFA\MinimumDFA\bin\Debug\netcoreapp3.1\MinimumDFA.deps.json
+C:\Users\AlMahdi\source\repos\MinimumDFA\MinimumDFA\bin\Debug\netcoreapp3.1\MinimumDFA.runtimeconfig.json
+C:\Users\AlMahdi\source\repos\MinimumDFA\MinimumDFA\bin\Debug\netcoreapp3.1\MinimumDFA.runtimeconfig.dev.json
+C:\Users\AlMahdi\source\repos\MinimumDFA\MinimumDFA\bin\Debug\netcoreapp3.1\MinimumDFA.dll
+C:\Users\AlMahdi\source\repos\MinimumDFA\MinimumDFA\bin\Debug\netcoreapp3.1\MinimumDFA.pdb
+C:\Users\AlMahdi\source\repos\MinimumDFA\MinimumDFA\obj\Debug\netcoreapp3.1\MinimumDFA.dll
+C:\Users\AlMahdi\source\repos\MinimumDFA\MinimumDFA\obj\Debug\netcoreapp3.1\MinimumDFA.pdb
+C:\Users\AlMahdi\source\repos\MinimumDFA\MinimumDFA\obj\Debug\netcoreapp3.1\MinimumDFA.genruntimeconfig.cache
